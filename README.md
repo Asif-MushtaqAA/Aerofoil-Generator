@@ -1,6 +1,8 @@
 # Aerofoil-Generator  
 Script to generate n number of aerofoil from a baseline PARSEC parameter.  
 
+Also includes an image generator script which can generate images of aerofoils at various angles of attack 
+
 #Few Baseline PARSEC parameter:  
   PARSEC	R_LE	      x_up	      z_up	    z_xx_up	        x_lo	      z_lo	        z_xx_lo	    z_te	      dz_te  alpha_te	    beta_te  
 #NACA2414	0.0216	    0.324	      0.0888	  -0.6363	        0.2365	    -0.0519	      0.3141	    0	          0	     -1.9022	    18.6383  
